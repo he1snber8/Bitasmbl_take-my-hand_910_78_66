@@ -1,0 +1,36 @@
+{
+  "branch": "bitasmbl/evaluations/574caa68-57cf-42e9-9ce5-15b258c02bd1-23/11/2026-938-2/3",
+  "requirementId": 938,
+  "projectApplicationId": 78,
+  "projectApplicationLinkedRepoId": 66,
+  "files": [
+    {
+      "file": "Backend/Controllers/ApiController.cs",
+      "fileActivity": {
+        "editEvents": 3,
+        "activeDurationSec": 20,
+        "idleBreaks": 1,
+        "editIntervals": {
+          "averageSec": 398.6666666666667,
+          "medianSec": 598,
+          "rapidEdits": 0,
+          "pauses": 1,
+          "longPauses": 1
+        },
+        "diffStats": {
+          "linesAdded": 23,
+          "linesDeleted": 3
+        },
+        "sourceHints": {
+          "possiblePaste": false,
+          "suspiciousJump": false
+        }
+      },
+      "fileData": {
+        "blobSha": "1599c23d523cd1bf5db972ff3e6c01a812378d67",
+        "mode": "100644",
+        "type": "blob"
+      }
+    }
+  ]
+}
